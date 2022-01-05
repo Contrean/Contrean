@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Contrean
 - 👀 I’m interested in Webapplications
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Unity/C#
 - 📫 contrean12@gmail.com
 
 <!---
