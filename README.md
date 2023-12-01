@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Contrean
-- 👀 I’m interested in Webapplications
-- 🌱 I’m currently learning VueJS
 - 📫 contrean12@gmail.com
 
 <!---
